@@ -1,0 +1,43 @@
+body 
+{
+	background: url(Fundo.jpg);
+	background-size: 100%;
+	font-family: 'Lato'; 
+	color: black;
+	width: 95%;
+	margin: auto;	
+	max-width: 800px;
+	line-height: 1.5;
+
+}
+.Logo img
+{
+	max-width:150px;
+ 	width: auto;
+}
+h2
+{
+color: white;
+font-family:  1  
+}
+
+table, th, td {
+  border: 1px solid white;
+}
+p
+{
+	color: white
+}
+table 
+{
+	
+ 	background-color: #00b386;
+	width: 10%;
+}
+
+main {
+  background: #00000054;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
